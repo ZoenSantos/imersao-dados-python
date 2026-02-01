@@ -14,11 +14,13 @@ Enquanto o Windows usamos o comando:
 .venv\Scripts\Activate
 
 Com isso feito será necessário baixar as bibliotecas usadas nesse projeto, para isso será necessário usar o comando:
+
 pip install -r requirements.txt
 
 Esse comando vai baixar todas as bibliotecas dentro do arquivo requiremenets.txt nisso não sendo necessário baixar as bibliotecas um por um.
 
 Agora se quiser ver como está o site pode usar o comando 
+
 streamlit run  app.py
 
 Agora você está pronto para usar o comando, espero que goste
