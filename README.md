@@ -10,6 +10,7 @@ No linux e Mac usamos o comando:
 source .venv/bin/activate
 
 Enquanto o Windows usamos o comando:
+
 .venv\Scripts\Activate
 
 Com isso feito será necessário baixar as bibliotecas usadas nesse projeto, para isso será necessário usar o comando:
