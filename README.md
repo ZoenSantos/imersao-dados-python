@@ -5,7 +5,8 @@ Para fazer esse código funcioonar você vai precisar ter baixado o python no se
 python3 -m venv .venv 
 Usamos esse comando para que possamos ter um ambiente python para ativa-lo podemos usar os seguintes comandos
 
-No linux e Mac usamos o comando
+No linux e Mac usamos o comando:
+
 source .venv/bin/activate
 
 Enquanto o Windows usamos o comando:
